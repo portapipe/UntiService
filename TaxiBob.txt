@@ -1,0 +1,1 @@
+&e&lSono Bob il tassista, tu sei %player% giusto? &r&3Il tuo Taxi è arrivato!
