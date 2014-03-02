@@ -1,4 +1,49 @@
 Istruzioni
 
 ------------
-§0#####
+§0##### §4§lPVPKit §0#####
+
+Poche righe per pochi concetti.
+
+Tanta azione, ognuno gioca come gli piace.
+
+§0Le §9§lTroghe §r§0sono molto importanti per avere dei poteri speciali.
+
+§0E' PVP §2Puro §0. §1Divertiti §0.
+
+------------
+§0##### §6GANG §o#####
+
+Le Gang sono gruppi di persone che si battono per la stessa causa.
+
+§2VANTAGGI
+-Si possono vendere §9Troghe
+-Possibilità di fuoco amico attiva e non
+-§1Gang Home
+-§aAura aumentata
+
+------------
+-§3Avanza di Prestigio
+-§aSei più forte nella tua zona protetta!
+-Scelta Kit Gang
+
+§3COMANDI
+/gang crea
+/gang info <gang>
+/gang manu
+/gang troga <player>
+§oper comprare la troga dalla sua gang
+/gang invita <player>
+
+------------
+##### §2PUNTI §0#####
+§3I punti servono per l'acquisto di kit
+
+Puoi fare punti in molti modi:
+-§4Uccidi player (1)
+-Uccidili nel loro territorio gang (3)
+-§6Trova il tesoro (2)
+-Vota (5 o 10)
+-§3Vendi Troga §1(solo se fai parte di una gang)
+
+------------
