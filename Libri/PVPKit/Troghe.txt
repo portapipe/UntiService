@@ -4,6 +4,7 @@ Istruzioni
 §0##### §9TROGHE §0#####
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 §4§nSpacciatore§0
 
 -Vende le §9§lTroghe §0§lsolo §0alle §2GANG
@@ -19,6 +20,8 @@ Usa il comando §2/troga compra <player>
 Apri lo zaino con §2/troga
 §0Clicca sulla §9§lTroga§0 per averla nell'inventario!
 =======
+=======
+>>>>>>> FETCH_HEAD
 §4Spacciatore
 
 -Vende le §9Troghe all'ingrosso per la rivendita
@@ -30,6 +33,9 @@ Apri lo zaino con §2/troga
 
 Per l'uso personale bisogna comprare dalle gang
 Usa il comando /troga compra <player>
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
 >>>>>>> FETCH_HEAD
 
 ------------
