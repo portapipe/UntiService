@@ -1,4 +1,18 @@
 Istruzioni
 
 ------------
-§0#####
+§0##### §9TROGHE §0#####
+
+§4Spacciatore
+
+-Vende le §9Troghe all'ingrosso per la rivendita
+-Compare allo spawn in determinate ore
+-Vende le §9Troghe solo alle §2GANG
+§a§oSeIl player singolo compra per la Gang
+
+§1§nUso personale
+
+Per l'uso personale bisogna comprare dalle gang
+Usa il comando /troga compra <player>
+
+------------
