@@ -1,0 +1,107 @@
+# §2§lMERCATO TRADE §0#
+
+§9Cosa ti serve:§0
+- 1 cartello
+- Item da Vendere
+- Leggere esempi in questo libro
+
+Tutto qui.
+
+Puoi vendere sia item per soldi che pagare per item. §3Vediamo...
+
+#--------- (x19 per cartello)
+
+-------------------
+1° RIGA
+[Trade]
+
+2° RIGA
+Cosa vuoi (item o $)
+
+3° RIGA
+Cosa dai (item o $)
+
+4° RIGA VUOTA!
+-------------------
+
+#---------
+
+§2§l# Esempio 1§0
+§8Vendo 1 cobblestone per 1$§0
+-------------------
+[Trade]
+$1
+1 CStone:1
+
+-------------------
+§8Perché CStone? Non ci starebbe scritto lungo. Trova altri nomi con /id nomeitem
+
+
+#---------
+
+
+§2§l# Esempio 2§8
+Vendo 1 stone per 2$§0
+-------------------
+[Trade]
+$2
+1 Stone:1
+
+-------------------§8
+Cosa servono i ":"?
+Per dire al cartello
+quanti item vuoi
+depositare. §4DEVI §8averli
+nell'inventario!!!
+
+
+#---------
+
+§2§l# Esempio 3§8
+Vendo 4 Sand per 1$§0
+-------------------
+[Trade]
+$1
+4 Sand:12
+
+-------------------§8
+DEVO avere 12 di sand
+nell'inventario e
+mettere "4 Sand" per
+vendere 4 alla volta
+per 1 dollaro. §2Facile!
+
+
+#------
+
+
+§2§l# Esempio 4§8
+Compro 1 mela per 10$§0
+-------------------
+[Trade]
+1 Apple
+$10:1000
+
+-------------------§8
+Se compro devo
+mettere i soldi, che verranno presi dal mio /money e finiti quelli non ne compro più.
+
+
+#--------
+
+
+§4§l# Errori Comuni§9
+
+- 1$ NO! è $1
+- Errori nelle linee:
+guarda la linea e arrivaci all'errore
+- Hai gli item in inv?
+- Hai abbastanza $$?
+- Nome item corretto?
+- 3° Metti quantità e
+poi nome item: 1 Sand
+
+
+
+
+
